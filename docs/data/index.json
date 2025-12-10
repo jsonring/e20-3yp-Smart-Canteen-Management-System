@@ -32,5 +32,8 @@
         "Web",
         "Embedded Systems",
         "Network Security"
-    ]
+    ],
+    "image": "cover_page.jpg",
+    "thumbnail": "thumbnail.jpg"
+    
 }
